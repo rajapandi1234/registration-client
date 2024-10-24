@@ -94,7 +94,7 @@
 		<orika.version>1.4.6</orika.version>
 
 		<!-- Spring version -->
-		<spring.version>6.1.4</spring.version>
+		<spring.version>6.1.14</spring.version>
 
 		<!-- Hibernate version -->
 		<hibernate.version>6.4.4.Final</hibernate.version>
