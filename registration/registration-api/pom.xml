@@ -17,10 +17,10 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <spring.version>5.0.6.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <mosip.core.kernel.version>1.2.0.1</mosip.core.kernel.version>
         <openjfx.version>11.0.2</openjfx.version>
-        <spring-cloud-config.version>2.0.4.RELEASE</spring-cloud-config.version>
+        <spring-cloud-config.version>4.0.0</spring-cloud-config.version>
     </properties>
 
     <dependencies>
